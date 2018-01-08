@@ -1,1 +1,3 @@
-This is a test project to work with github course
+# Travel Destinations
+
+A simple app to keep track of destinations I'd like to visit.
